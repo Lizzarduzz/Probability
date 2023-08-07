@@ -1,0 +1,1 @@
+# Compute the proportion of outcomes in the vector 'S' where you won more than $0
